@@ -1,1 +1,2 @@
-today is great
+today is greait
+relasted to featx code 
